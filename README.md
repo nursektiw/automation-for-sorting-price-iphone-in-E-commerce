@@ -6,5 +6,5 @@ Prerequisite: Prepare the required tools/applications for running this mobile au
 - Java
 
 How tu run the code
-- Adjust the location of path for web automation sleekflow inside file main.kt in line 19
-- Run test function testSortingPriceHighToLow inside main.kt class
+- Adjust the location of path for web automation sleekflow inside file with path web automation sleeflow/src/main/java/Main.kt in line 19
+- Run test function testSortingPriceHighToLow inside web automation sleeflow/src/main/java/Main.kt class
